@@ -1,0 +1,8 @@
+{
+    "name": "DevopsKescefkoTestOrganization",
+    "description": "DevopsKescefkoTestOrganization NodeJS CI starter workflow",
+    "iconName": "github-icon",
+    "categories": [
+        "NPM Config"
+    ]
+}
